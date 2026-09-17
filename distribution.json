@@ -8,7 +8,7 @@
     {
       "show": true,
       "name": "EleganCENTER",
-      "address": "15.204.135.2"
+      "address": "15.204.135.2:7777"
     }
   ]
 }
