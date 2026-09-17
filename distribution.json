@@ -1,0 +1,21 @@
+{
+  "social": {
+    "youtube": "https://youtube.com/@dj_luigi_mixx",
+    "discord": "https://discord.gg/tu-discord",
+    "website": "https://samp-mobile.shop"
+  },
+  "servers": [
+    {
+      "show": true,
+      "name": "Luigi Mix RP",
+      "address": "15.204.135.2:7777",
+      "ip": "15.204.135.2",
+      "port": 7777,
+      "mode": "Roleplay",
+      "language": "Spanish",
+      "password": false,
+      "online": 0,
+      "maxplayers": 100
+    }
+  ]
+}
